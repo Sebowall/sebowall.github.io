@@ -22,7 +22,7 @@ header p#status{
     color: rgb(255, 255, 255);
 }
 header p#status span{
-    font-size: 1.2em;
+    font-size: 0.8em;
     color: rgb(255, 255, 255) ;
     font-weight: bold;
 }
