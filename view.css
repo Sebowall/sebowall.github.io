@@ -75,13 +75,13 @@ main {
 }
 
 main p#en{
-    font-size: 1.6em;
+    font-size: 1.3em;
     color:lightblue;
     text-shadow: 2px 2px gray ;
     font-weight: bold; /* 让文字变粗 */
 }
 main p#pn{
-    font-size: 1.2em;
+    font-size: 0.9em;
     color:lightseagreen;
    }
 form{
@@ -122,12 +122,12 @@ span#level{
     text-shadow: 1px 1px 1px grey;
 }
 p.cn{
-  border:2px solid rgb(108, 186, 255);
+  border:1.5px solid rgb(108, 186, 255);
   background-color: antiquewhite;
   cursor: pointer;
   font-size: 0.9em;
-  padding:0.2em 0.2em ;
-  margin-bottom: 0.3em;
+  padding:0.15em 0.15em ;
+  margin-bottom: 0.2em;
   color: #000000;
   border-radius: 50px 50px 50px 50px; /* 水平和垂直方向的圆角半径都设为50px */
 }
