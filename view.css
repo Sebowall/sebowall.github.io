@@ -65,12 +65,15 @@ button.big{
     width: 45%;
     padding: 0.1em 0.5em;  
 }
-main{
+main {
     margin-top: 1em;
     font-size: 1.6em;
-    height: 60% ;
+    height: 65%;
     position: relative;
+    display: flex;
+    flex-direction: column;
 }
+
 main p#en{
     font-size: 1.6em;
     color:lightblue;
@@ -147,10 +150,11 @@ main span#response{
     top:0.9em;
     font-weight: bold; /* 让文字变粗 */
 }
-p#log{
+p#log {
     background-color: gray;
     color: white;
     font-size: 0.65em;
     padding: 5px 10px;
     text-align: center;
+    margin-top: auto;
 }
